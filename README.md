@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a portfolio website<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with data structures and algorithms<br>🌱 I’m currently learning react<br>💬 Ask me about anything<br>
+🔭 I’m currently working on a full-stack machine learning project<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with data structures and algorithms<br>🌱 I’m currently learning spring boot<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
